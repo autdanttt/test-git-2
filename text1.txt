@@ -3,3 +3,6 @@ Lan thu 2 tai nhanh A
 Lan thu 3 tai nhanh A
 
 Test lan 2
+
+"Conflict file 2"
+
